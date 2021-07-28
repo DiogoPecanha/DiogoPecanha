@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=DiogoPecanha&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=DiogoPecanha&show_icons=true&theme=default)
+
+[![DiogoPecanha](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPecanha&hide=html&layout=compact&theme=default)](https://github.com/DiogoPecanha/)
 
