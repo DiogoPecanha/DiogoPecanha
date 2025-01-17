@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 - 🏢 I'm currently working at Zup IT Innovation
 - ⚙️ I use daily: `.kt`, `.java`, `.net`, `.js`
-- 💅 Designed: [mundoaquario](http://www.mundoaquario.com.br)
 - 🌱 Trying have more time to lear all about **AWS**, ***Leadership*** and cool things (like woodworking, home automation and fish tanks)
-- ⚡️ Fun fact: I'm a huge fan of Lord of the Rings and Batman, 
+- ⚡️ Fun fact: I'm a huge fan of Lord of the Rings and Batman
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DiogoPecanha&show_icons=true&theme=default)
 
